@@ -2,9 +2,11 @@
 
 ```
 Our project of Health Monitoring System reduces most of the efforts of health workers like doctors and nurses.
-By implementing our project chances of critical patient survival will increase and also, it is good for old-aged people who go to the hospital for regular diagnosis.
+By implementing our project chances of critical patient survival will increase and also, it is good for old-aged people 
+who go to the hospital for regular diagnosis.
 They do not need to go regularly hospital for checkups. 
-Using our health monitoring kit they are able to check themselves from home and they are also able to communicate with doctors as we put options for asking a doctor. 
+Using our health monitoring kit they are able to check themselves from home and they are also able to communicate with 
+doctors as we put options for asking a doctor. 
 So, in short, our project will improve the quality of the health industry.
 
 ```
@@ -12,7 +14,9 @@ So, in short, our project will improve the quality of the health industry.
 ## How does our system work?
 
 ```
-when we attach different sensors like ECG, temperature, Oximeter, etc. to the human body it will measure those values from the human body and we have used ESP8266 Wifi module with help of this wifi module and our developed APIs those data will be sent to our webserver. 
+when we attach different sensors like ECG, temperature, Oximeter, etc. to the human body it will measure those values from 
+the human body and we have used ESP8266 Wifi module with help of this wifi module and our developed APIs those data will 
+be sent to our webserver. 
 From the webserver, those data are fetched and displayed on our website in the graph format that we have made.
 Both doctors and patients are able to see their respective data and take actions according to it.
 
