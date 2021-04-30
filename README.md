@@ -45,3 +45,18 @@ Both doctors and patients are able to see their respective data and take actions
 <img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/IOT%20CODE/ecg_placement.jpg" alt="ecg" width="400" height="200"/>
 </p>
 
+<mark><h3 align="left">UI Demo:</h3></mark>
+<p align="left">
+<h4>&#x25CF; Doctor Profile:</h4>
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docdahboard.PNG" alt="docdahboard" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docecg.PNG" alt="docecg" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docpulserate.PNG" alt="docpulserate" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/docspo2.PNG" alt="docspo2" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/doctemp.PNG" alt="doctemp" />
+<h4>&#x25CF; Patient Profile:</h4>
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/patient_dashboard.PNG" alt="patient_dashboard" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/ECG.PNG" alt="ecg" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/pulserate.PNG" alt="pulserate" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/spo2.PNG" alt="spo2" />
+<img src="https://github.com/parthparikh02/healthmonitoringsystem/blob/master/Django%20Code/Screenshots/temp.PNG" alt="temp" />
+</p>
