@@ -1,7 +1,7 @@
 # healthmonitoringsystem
 
 
-- Our project of Health Monitoring System reduces most of the efforts of health workers like doctors and nurses.
+- Our project of Health Monitoring System reduces efforts of  most of the health workers like doctors and nurses.
 By implementing our project chances of critical patient survival will increase and also, it is good for old-aged people 
 who go to the hospital for regular diagnosis.They do not need to go regularly hospital for checkups. 
 - Using our health monitoring kit they are able to check themselves from home and they are also able to communicate with 
